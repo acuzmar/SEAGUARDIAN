@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pandas
+requests
+jinja2
+reportlab
+yara-python ; sys_platform != 'win32'
